@@ -8,7 +8,7 @@
  *      Author: hanaa
  */
 
-
+// Polynomial using arrays
 #include <stdio.h>
 int main()
 {

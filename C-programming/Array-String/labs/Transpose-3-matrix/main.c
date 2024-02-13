@@ -7,7 +7,7 @@
  *  Created on: Nov 4, 2023
  *      Author: hanaa
  */
-
+// for transpose 3_matrix
 
 #include <stdio.h>
 int main()

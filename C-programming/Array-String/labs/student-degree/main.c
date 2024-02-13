@@ -7,7 +7,7 @@
  *  Created on: Nov 4, 2023
  *      Author: hanaa
  */
-
+//for calculate student degree
 
 #include <stdio.h>
 int main()
